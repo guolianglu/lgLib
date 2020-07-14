@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Student.h"
 
 FOUNDATION_EXPORT double lgLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char lgLibVersionString[];
