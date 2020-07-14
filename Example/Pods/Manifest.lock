@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - lgLib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - lgLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  lgLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  lgLib: b8e4b5e137d38a4dad432d26db9887424498a1a2
+
+PODFILE CHECKSUM: 88dce55da447fa91894c3855f99ff9594edbe573
+
+COCOAPODS: 1.8.4

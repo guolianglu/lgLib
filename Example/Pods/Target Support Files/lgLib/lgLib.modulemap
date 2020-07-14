@@ -1,0 +1,6 @@
+framework module lgLib {
+  umbrella header "lgLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
